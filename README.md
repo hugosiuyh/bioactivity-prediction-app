@@ -1,10 +1,7 @@
 # bioactivity-prediction-app
 
 This is an adaptation of data professor's bioinformatics project tutorial on ADAMTS4 gene instead of Acetylcholinesterase enzyme
-# Watch the tutorial video
-
-[Bioinformatics Project from Scratch - Drug Discovery #6 (Deploy Model as Web App) | Streamlit #22](https://youtu.be/htBIP17S-20)
-
+# Tutorial Video
 <a href="https://youtu.be/m0sePkuyTKs"><img src="http://img.youtube.com/vi/m0sePkuyTKs/0.jpg" alt="Bioinformatics Project from Scratch - Drug Discovery #6 (Deploy Model as Web App) | Streamlit #22" title="Bioinformatics Project from Scratch - Drug Discovery #6 (Deploy Model as Web App) | Streamlit #22" width="400" /></a>
 
 # Reproducing this web app
