@@ -41,4 +41,3 @@ The machine learning model used in this web app will firstly have to be generate
 ```
 streamlit run app.py
 ```
-# bioactivity-prediction-app
