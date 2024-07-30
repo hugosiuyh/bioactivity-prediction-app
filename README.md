@@ -1,6 +1,8 @@
 # Bioactivity Prediction App
 This project is an adaptation of Data Professor's bioinformatics tutorial. This tutorial predicts the bioactivity of any molecule to any gene. This tutorial focuses on the ADAMTS4 gene which is responsible for aggrecan degradation in a human model of OA [link](https://pubmed.ncbi.nlm.nih.gov/21815191/). 
 
+The app will process the uploaded list by calculating molecular descriptors, selecting the relevant subset, running these through the trained model, and generating a prediction output indicating the bioactivity of each molecule against the target gene.
+
 ## Reproducing this Web App
 To recreate this web app on your own computer, follow these steps:
 
@@ -32,3 +34,5 @@ streamlit run app.py
 
 ### Step 6: Upload molecules list
 Upload a list of molecules in a .txt file to test their bioactivity against your chosen gene. An example file, molecules_example.txt, can be found in the root directory.
+
+The app will process the uploaded list by calculating molecular descriptors, selecting the relevant subset, running these through the trained model, and generating a prediction output indicating the bioactivity of each molecule against the target gene.
